@@ -1,0 +1,9 @@
+project:
+  name: c-meson
+  files:
+    meson.build:
+      type: file
+      src: meson.build
+    src:
+      type: dir
+      src: src
